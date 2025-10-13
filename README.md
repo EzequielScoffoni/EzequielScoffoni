@@ -12,7 +12,7 @@ I'm a second-year Software Development student at UADE, with a solid background 
 📈 I’ve completed the **Full Stack Web Development** program at **Digital House**, where I built a complete e-commerce project using React, Node.js, and SQL  
 🔧 Certifications: **Red Hat System Administration (Linux)** and **Cisco CCNA 1: Introduction to Networks**  
 💻 I’m always looking to improve my skills, contribute to open source, and learn from real-world projects  
-📫 You can contact me at: eze.esco@gmail.com
+📫 You can contact me at: eze.esco@gmail.com    
 🔗 Here is my LinkedIn profile: [www.linkedin.com/in/ezequiel-scoffoni](https://www.linkedin.com/in/ezequiel-scoffoni)  
 
 ## My Skills Include
