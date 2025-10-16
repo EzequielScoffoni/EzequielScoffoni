@@ -4,14 +4,14 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I'm a second-year Software Development student at UADE, with a solid background in programming, full-stack web development and databases. I completed the Full Stack Web Developer course at Digital House and hold certifications in Red Hat Linux and Cisco CCNA 1. I'm looking for my first IT experience as a Junior Developer or Jr. Data Analyst, applying my technical knowledge and problem-solving skills.
+I'm a second-year Software Development student at UADE, with a solid background in programming, full-stack web development and databases. I´ve completed the Full Stack Web Developer course at Digital House and hold certifications in Red Hat Linux and Cisco CCNA 1. I'm looking for my first IT experience as a Jr Developer or Jr Data Analyst, where I´ll apply my technical knowledge and problem-solving skills.
 
 🎓 I’m studying **Software Development** at **UADE (Universidad Argentina de la Empresa)**  
-🌱 Currently learning and working with **Python, Java, JavaScript, SQL Server, MySQL, HTML, CSS, React.js, Node.js, Express, Sequelize, Red Hat Linux, and Cisco Networking**  
+🌱 I´m currently learning and working with **Python, Java, JavaScript, SQL Server, MySQL, HTML, CSS, React.js, Node.js, Express, Sequelize, Red Hat Linux, and Cisco Networking**  
 💡 I’m passionate about **Full Stack Development**, **Data Analysis**, and **Software Engineering**  
 📈 I’ve completed the **Full Stack Web Development** program at **Digital House**, where I built a complete e-commerce project using React, Node.js, and SQL  
 🔧 Certifications: **Red Hat System Administration (Linux)** and **Cisco CCNA 1: Introduction to Networks**  
-💻 I’m always looking to improve my skills, contribute to open source, and learn from real-world projects  
+💻 I’m always looking forward to improving my skills, contributing to open source, and learning from real-world projects  
 📫 You can contact me at: eze.esco@gmail.com    
 🔗 Here is my LinkedIn profile: [www.linkedin.com/in/ezequiel-scoffoni](https://www.linkedin.com/in/ezequiel-scoffoni)  
 
