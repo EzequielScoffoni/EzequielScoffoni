@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I'm a second-year Software Development student at UADE, with a solid background in programming, full-stack web development and databases. I´ve completed the Full Stack Web Developer course at Digital House and hold certifications in Red Hat Linux and Cisco CCNA 1. I'm looking for my first IT experience as a Jr Developer or Jr Data Analyst, where I´ll apply my technical knowledge and problem-solving skills.
+I'm an advanced Software Development student at UADE, with a solid background in programming, full-stack web development and databases. I´ve completed the Full Stack Web Developer course at Digital House and hold certifications in Red Hat Linux and Cisco CCNA 1. I'm looking for my first IT experience as a Jr Developer or Jr Data Analyst, where I´ll apply my technical knowledge and problem-solving skills.
 
 🎓 I’m studying **Software Development** at **UADE (Universidad Argentina de la Empresa)**  
 🌱 I´m currently learning and working with **Python, Java, JavaScript, SQL Server, MySQL, HTML, CSS, React.js, Node.js, Express, Sequelize, Red Hat Linux, and Cisco Networking**  
